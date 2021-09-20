@@ -8,7 +8,8 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
-#### a. Learning ht
+#### a. Learning objective
+Good representation in <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
 
 ## Glossary
 
