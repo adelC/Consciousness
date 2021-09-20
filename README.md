@@ -1,3 +1,6 @@
+% test
+\usepackage[hybrid]{markdown}
+
 # Consciousness
 
 ## The Consciousness Prior Components
