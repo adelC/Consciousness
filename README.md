@@ -1,10 +1,12 @@
 <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
-$e^{i \pi} = -1$
 
 
-```math
-$SE = \frac{\sigma}{\sqrt{n}}$
-```
+**Theorem**: The translation $[\![e]\!]$ given by
+\begin{align*}
+...
+\end{align*}
+...
+
 
 
 # Consciousness
