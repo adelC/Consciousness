@@ -3,7 +3,7 @@ $e^{i \pi} = -1$
 
 
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+$SE = \frac{\sigma}{\sqrt{n}}$
 ```
 
 
