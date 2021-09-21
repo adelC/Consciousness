@@ -4,12 +4,19 @@
 
 ## The Consciousness Prior Components
 
-### 1. Uncouscious representation state *<img src="https://render.githubusercontent.com/render/math?math=h_{t}">*
+### 1. Uncouscious representation state <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
 
 <img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
 #### a. Learning objective
 Good representation in <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
+
+### 2. Couscious Representation State <img src="https://render.githubusercontent.com/render/math?math=c_{t}">
+
+### 3. Memory <img src="https://render.githubusercontent.com/render/math?math=m_{t}">
+
+### 4. Verifier Network <img src="https://render.githubusercontent.com/render/math?math=V">
+
 
 ## Connection to Symbolic Knowledge Representation
 
