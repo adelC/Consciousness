@@ -6,7 +6,7 @@
 
 ### 1. Uncouscious representation state ![\Large h_{t}](https://latex.codecogs.com/svg.latex?\Large&space;h_{t})
 
-<img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
+* <img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
 
 #### a. Learning objective
@@ -18,7 +18,7 @@ Good representation in <img src="https://render.githubusercontent.com/render/mat
 
 ### 4. Verifier Network <img src="https://render.githubusercontent.com/render/math?math=V">
 
-<img src="https://render.githubusercontent.com/render/math?math=V(h_{t}, c_{t-k}) \in R">
+* <img src="https://render.githubusercontent.com/render/math?math=V(h_{t}, c_{t-k}) \in R">
 
 * The Verifier Network role is to match the current represantation state ht with a past couscious state ct-k stored in memory mt-1
 
