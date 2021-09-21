@@ -4,11 +4,13 @@
 
 ## The Consciousness Prior Components
 
-### 1. Uncouscious representation state <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
+### 1. Uncouscious representation state ![\Large h_{t}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
+<img src="https://render.githubusercontent.com/render/math?math=h_{t}">
 
 <img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
 
 
 #### a. Learning objective
