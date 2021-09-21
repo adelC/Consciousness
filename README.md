@@ -18,6 +18,8 @@ Good representation in <img src="https://render.githubusercontent.com/render/mat
 
 ### 4. Verifier Network <img src="https://render.githubusercontent.com/render/math?math=V">
 
+* The Verifier Network role is to match the current represantation state ht with a past couscious state ct-k stored in memory mt-1
+
 
 ## Connection to Symbolic Knowledge Representation
 
