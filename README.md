@@ -8,6 +8,9 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+
+
 #### a. Learning objective
 Good representation in <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
 
