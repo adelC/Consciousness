@@ -8,7 +8,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 
 #### a. Learning objective
