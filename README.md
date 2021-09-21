@@ -6,9 +6,9 @@
 
 ### 1. Uncouscious representation state ![\Large h_{t}](https://latex.codecogs.com/svg.latex?\Large&space;h_{t})
 
-![\Large h_{t} = F(x_{t}, h_{t-1})](https://latex.codecogs.com/svg.latex?\Large&space;h_{t} = F(x_{t}, h_{t-1}))
+<img src="https://render.githubusercontent.com/render/math?math=h_{t} = F(x_{t}, h_{t-1})">
 
-
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 
