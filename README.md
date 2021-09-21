@@ -23,7 +23,8 @@ Good representation in <img src="https://render.githubusercontent.com/render/mat
 * The Verifier Network role is to match the current represantation state ht with a past couscious state ct-k stored in memory mt-1
 
 #### Mapping ht with the objective function
-* The attention mechanism, eg the Consciousness RNN (we consider using The Perceiver) which selects and combines few elements form the high leve state representation ht into a low-dimentional couscious sub state ct
+1. The attention mechanism, eg the Consciousness RNN (we consider using The Perceiver) which selects and combines few elements form the high leve state representation ht into a low-dimentional couscious sub state ct.
+2. Predictions or actions derived from the sequence of conscious sub-state <img src="https://render.githubusercontent.com/render/math?math=c_{t} \in R">
 
 ## Connection to Symbolic Knowledge Representation
 
