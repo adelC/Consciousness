@@ -11,6 +11,10 @@
 #### a. Learning objective
 Good representation in <img src="https://render.githubusercontent.com/render/math?math=h_{t}">
 
+### Considerations
+
+* For this experiment, we will consider the Unsupervised RL framework. we want to test the agent ability to to discover high-level abstractions alone. 
+
 ## Glossary
 
 Factor: 
