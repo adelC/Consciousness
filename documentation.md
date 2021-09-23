@@ -33,7 +33,7 @@ One question I have is about the reflection mechanism. Can we consider the Sprea
 
 Can we consider the Reflection Mechanisme,as the navigation mechanism in the Semetic graph stored in the Working memory ?
 
-We also talked about constructions. and the fact that outside of perceptions, everything else is a construction. Can we say that the construction is the process of combining, alterating or any changes that occurs on the sub-sementic network that is in the working memory ?
+We also talked about constructions. and the fact that outside of perceptions, everything else is a construction. Can we say that the construction is the process of combining, alterating or any changes performed on the sub-sementic network that is in the working memory ?
 
 
 I'm wondering if the first thing to learn for the agent to discover a minimal self, is to discover his own constraint.
