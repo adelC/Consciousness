@@ -21,12 +21,22 @@ The angent needs to have perception mechanism to perceive the world surrounding 
 
 ### 4. Reflection mechanism 
 
+We consider using the Spreading Activation Theory of Semantic Processing. Because concepts and ideas are connected together, if one concept is selected, then that will pull up other connected concepts along with it (Spreading Activation). For example, if the agent see an Apple in the scene, the that will activate the concept of Apple in the Long-term memory (we will need a search engine) and pulling up not only the Apple idea but also other related ideas such as "Sweet", "red", "cack"
+
 
 https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing
 
 
 <img width="474" alt="Capture d’écran 2021-09-23 à 18 45 12" src="https://user-images.githubusercontent.com/1243127/134549382-e04491a9-68ff-42dd-a41c-079a10692d96.png">
 
+One question I have is about the reflection mechanism. Can we consider the Spreading Activation as part of the reflection mechanism ?
+
+Can we consider the Reflection Mechanisme,as the navigation mechanism in the Semetic graph stored in the Working memory ?
+
+We also talked about constructions. and the fact that outside of perceptions, everything else is a construction. Can we say that the construction is the process of combining, alterating or any changes that occurs on the sub-sementic network that is in the working memory ?
+
+
+I'm wondering if the first thing to learn for the agent to discover a minimal self, is to discover his own constraint.
 
 
 
