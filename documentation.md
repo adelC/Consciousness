@@ -7,7 +7,10 @@
 * Interaction between perception and reflection: 
 ## Agent components:
 
-### 1. Long term memory.
+### 1. Long term memory
+
+The cocenpts learned by the agents will be stored into the long term memory. We  consider using the Semantic networks approach to store and connect the different concepts. Each learned concepts is represented by a node and those nodes are connected by links. The links might be shorter, for closely related concepts and  or loger, for less related concepts.
+
 ### 2. Short term memory (Working Memory)
 It contains the concepts that are retrieved from the the Long term memory.
 
