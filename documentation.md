@@ -22,6 +22,9 @@ The angent needs to have perception mechanism to perceive the world surrounding 
 ### 4. Reflection mechanism 
 
 
+https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing
+
+
 <img width="474" alt="Capture d’écran 2021-09-23 à 18 45 12" src="https://user-images.githubusercontent.com/1243127/134549382-e04491a9-68ff-42dd-a41c-079a10692d96.png">
 
 
