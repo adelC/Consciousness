@@ -16,6 +16,10 @@ It contains the concepts that are retrieved from the the Long term memory.
 
 ### 3. Perception mechanism
 
+The angent needs to have perception mechanism to perceive the world surrounding him. At the begining, the agent doesn't know anithing about the world. We need to find a mechanism so that the agent learn new concepts (ex: self, Apple..ect) with all its features and caracteristics and store them in long term memory. if the agents see an know object, meaning that it does exist in the long-term memory, the this object(concept) will be retreived and stored in the working memory
+
 ### 4. Reflection mechanism 
 
-The angent needs to have perception mechanism to perceive the world surrounding him. At the begining, the agent doesn't know anithing about the world. We need to find a mechanism so that the agent learn new concepts (ex: Apple) with all its features and caracteristics and store them in long term memory. if the agents see a familiar object in the scene, that will 
+
+
+
