@@ -29,14 +29,7 @@ https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory
 
 <img width="474" alt="Capture d’écran 2021-09-23 à 18 45 12" src="https://user-images.githubusercontent.com/1243127/134549382-e04491a9-68ff-42dd-a41c-079a10692d96.png">
 
-One question I have is about the reflection mechanism. Can we consider the Spreading Activation as part of the reflection mechanism ?
 
-Can we consider the Reflection Mechanisme,as the navigation mechanism in the Semetic graph stored in the Working memory ?
-
-We also talked about constructions. and the fact that outside of perceptions, everything else is a construction. Can we say that the construction is the process of combining, alterating or any changes performed on the sub-sementic network that is in the working memory ?
-
-
-I'm wondering if the first thing to learn for the agent to discover a minimal self, is to discover his own constraint.
 
 
 
