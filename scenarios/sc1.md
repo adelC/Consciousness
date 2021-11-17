@@ -6,7 +6,7 @@ Initialization
 
 while True:
 	
-  Perception. Red or white pixel appears in front of the snake  
+  Perception              ## Red or white pixel appears in front of the snake  
 		If white pixel:
 			input = upload image of a fruit ## using scikit-image
 		Else if red pixel
