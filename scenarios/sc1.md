@@ -22,6 +22,6 @@ while True:
 			action = get_action(retreived_variables)
 		Else
 			action = get_action(retreived_variables) 
-snake_move(action)
+	snake_move(action)
 ```
 
