@@ -5,13 +5,11 @@ Initialization
 	actions = [up, left, right] 	## List of snake actions
 
 while True:
-	
   Perception              ## Red or white pixel appears in front of the snake  
-		
     If white pixel:
-			input = upload image of a fruit ## using scikit-image
-		Else if red pixel
-			input = upload the image of the cat ## using scikit-image
+		  input = upload image of a fruit ## using scikit-image
+	  Else if red pixel
+		  input = upload the image of the cat ## using scikit-image
 	
 	Memory
 		retreived_pattern = HN(input)
