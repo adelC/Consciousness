@@ -1,6 +1,6 @@
 ```
 Initialization 
-	HN = network.train()								##The Hpfield NT trained offline. 2 patterns (images) stored, fruit and cat
+	HN = network.train()								## The Hpfield NT trained offline. 2 patterns (cat, fruit) stored
 	SG = empty									## Init Symbolic knowledge graphs
 	actions = [up, left, right] 							## List of snake actions
 
